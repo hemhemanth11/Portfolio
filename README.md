@@ -130,7 +130,7 @@ At Avancez LLC, I work as part of the controls engineering team, designing and m
 ## 📝 Publications
 
 “**Watercraft-Specific Drone Landing and Stabilization Platform: A Low-Cost Design and Implementation Approach**” — IEEE, 2023 
-Authors: Sai Karthik Alluri, Hemanth Nanabala, Tarek A. Tutunji, Ashraf Saleem
+**Authors: Sai Karthik Alluri, Hemanth Nanabala, Tarek A. Tutunji, Ashraf Saleem**
 Developed a low-cost stabilization and landing platform for drones operating on moving watercraft, integrating sensor feedback, control algorithms, and mechanical design to enable reliable operation in dynamic marine environments.
 [**View my publication**](https://ieeexplore.ieee.org/document/10735500)
 
