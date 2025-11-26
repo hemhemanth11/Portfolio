@@ -124,7 +124,7 @@ At Avancez LLC, I work as part of the controls engineering team, designing and m
 
 ## 📜 Certifications
 
-* **[[Ignition 8.1 Credential]](<a href="https://github.com/hemhemanth11/Portfolio/HemanthNanabalaIUCredential (1).pdf" target="_blank">PDF.</a>)**
+* **[Ignition 8.1 Credential](<a href="https://github.com/hemhemanth11/Portfolio/HemanthNanabalaIUCredential(1).pdf" target="_blank">PDF.</a>)**
 
 ---
 ## 📝 Publications
